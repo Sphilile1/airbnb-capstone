@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+  <rect width="800" height="520" fill="#f2f2f2"/>
+  <path d="M255 335h290V205l-145-95-145 95z" fill="#ddd"/>
+  <rect x="365" y="250" width="70" height="85" rx="4" fill="#fff"/>
+  <text x="400" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" fill="#ff385c">airbnb stay</text>
+</svg>
